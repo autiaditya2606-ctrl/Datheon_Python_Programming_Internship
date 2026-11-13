@@ -1,0 +1,21 @@
+{
+    "business_hours": {
+        "answer": "Our business hours are Monday to Friday, 9:00 AM to 6:00 PM."
+    },
+    "shipping": {
+        "keywords": ["shipping", "delivery", "deliver"],
+        "answer": "Standard shipping usually takes 3 to 5 business days."
+    },
+    "returns": {
+        "keywords": ["return", "refund", "exchange"],
+        "answer": "You can request a return within 30 days of purchase, subject to our return policy."
+    },
+    "payment": {
+        "keywords": ["payment", "pay", "card"],
+        "answer": "We accept major credit cards and other payment methods supported at checkout."
+    },
+    "warranty": {
+        "keywords": ["warranty", "guarantee"],
+        "answer": "Our products include a one-year limited warranty."
+    }
+}
